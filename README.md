@@ -1,4 +1,4 @@
 ## Test-repo-TG
-HEllo World\
+Hello World!\
 Hello tech gang\
-This is great
+This is great.
