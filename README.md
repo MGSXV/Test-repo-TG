@@ -6,3 +6,4 @@ This is great.\
 foobar
 ## Hello to feature
 This it the new feature
+text/code related to the new feature
