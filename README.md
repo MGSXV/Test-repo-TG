@@ -1,6 +1,6 @@
 ## Test-repo-TG
 Hello World!\
 Hello everybody!\
-Hello tech gang\
+Hello tech gangsters\
 This is great.\
 foobar
